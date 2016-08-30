@@ -11,6 +11,7 @@ public class Simpleclass {
 	private static void displaycreating(){
 		System.out.println("Main class");
 		System.out.println("Tets Git Push");
+		System.out.println("Recent commit");
 	}
 
 }
